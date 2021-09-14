@@ -1,5 +1,5 @@
 👋 Hi, I’m Maxime Gautier 
-I’m interested in robotics, control, automation and AI in general
+I’m interested in robotics and autonomous systems in general.
 
 Contact me at maxime.gautier@alumni.epfl.ch
 
